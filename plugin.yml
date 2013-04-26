@@ -1,0 +1,6 @@
+name: mwQuakeCraft
+main: com.monowii.quakecraft.core
+version: 1
+commands:
+  quake:
+  test:
